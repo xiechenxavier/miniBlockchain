@@ -38,5 +38,5 @@ while True:
 
     # sock.sendto('{} {} {}'.format(c1_addr, c1_port, known_port).encode(), c2)
     # send the info of before last client to new client
-    sock.sendto('{} {}'.format(c2_addr, c2_port).encode(), c1)
+    sock.sendto('#The_miner:{} {}'.format(c2_addr, c2_port).encode(), c1)
 

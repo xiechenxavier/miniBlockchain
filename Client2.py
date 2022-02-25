@@ -12,7 +12,7 @@ import threading
 import time
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-serverAddress = ('192.168.43.181', 11111)
+serverAddress = ('192.168.43.185', 11111)
 
 #recvfrom()函数：
 #接收UDP数据，与recv()类似，但返回值是（data,address）。

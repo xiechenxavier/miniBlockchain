@@ -17,4 +17,6 @@ Executing a wallet with its 1st mode:  send transactions to one of miners:
 Input the address and ip of a Miner to send
 
 Executing another wallet with its 0th mode: check the validity of one transaction.
+
+- python Wallet.py '[port]' 0
 Input the address and ip of a Miner to consult

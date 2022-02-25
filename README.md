@@ -1,5 +1,5 @@
 # miniBlockchain
-Tutorial Blockchain project at school
+Tutorial Blockchain project at school.
 That's a project assigned by teacher, which merely shows an implementatioin of a basical mini-blockchain with P2P network and UDP transmission.
 If you'd like to try it on your PC.
 

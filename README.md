@@ -3,6 +3,8 @@ Tutorial Blockchain project at school.
 That's a project assigned by teacher, which merely shows an implementatioin of a basical mini-blockchain with P2P network and UDP transmission.
 If you'd like to try it on your PC.
 
+Before using it, you have to modify the IP address in Server,Miner to adapt your own PC.
+
 First, executing the Server by typing:
 
 - python Server.py
